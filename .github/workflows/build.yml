@@ -6,6 +6,7 @@ on:
       - '*.md'
       - '*LICENSE'
   pull_request:
+  workflow_dispatch: 
 
 env:
   SCCACHE_GHA_ENABLED: "true"
