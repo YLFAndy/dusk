@@ -1,3 +1,10 @@
+
+#Fork Info -
+This fork aims to add some quality of life imporvements for people with aversion to certain sounds. 
+Current work:
+Add a menu item to remove buzzing noise when Midna pops out or a "Talk" dialog spawns. Complete.
+Original README.MD:
+
 <div align="center">
   <img src="res/logo.png" alt="Logo" width="640">
 
